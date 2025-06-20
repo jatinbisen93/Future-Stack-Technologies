@@ -3,6 +3,16 @@
      max-width: 1000px;
  }
 
+ @media (max-width: 768px) {
+    .nav {
+      flex-direction: column;
+    }
+    .container {
+      padding: 10px;
+    }
+  }
+  
+
  .navbar a {
      margin-right: 16px;
      color: white;
@@ -34,7 +44,7 @@
  nav {
      background-color: #606060;
      position: fixed;
-     width: 1400px;
+     width: 1492px;
      z-index: 1;
  }
 
@@ -113,6 +123,7 @@
      position: relative;
      color: rgb(61, 61, 61);
      max-width: 1200px;
+     
  }
 
  .container {
@@ -1065,6 +1076,7 @@
  html,
  body {
      scroll-behavior: smooth;
+     scrollbar-width: none;
  }
 
  .dropdown {
@@ -1579,7 +1591,7 @@
      padding-top: 30px;
      background-color: black;
      justify-self: center;
-     width: 1343px;
+     width: 1492px;
      padding: 20px;
      font-size: large;
  }
