@@ -1,6 +1,6 @@
 # 🌐 Frontend Project - Future Stack Technologies
 
-A responsive and visually engaging frontend web project built using **HTML**, **CSS**, and enhanced with **AOS (Animate On Scroll)** animations and **Ions-Lordicons**. This project demonstrates clean layout design, animation effects, and interactive user interface elements.
+A responsive and visually engaging company frontend web project built using **HTML**, **CSS**, and enhanced with **AOS (Animate On Scroll)** animations and **Ions-Lordicons**. This project demonstrates clean layout design, animation effects, and interactive user interface elements.
 
 ## ✨ Features
 
