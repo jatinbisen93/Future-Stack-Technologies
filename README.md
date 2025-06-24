@@ -13,11 +13,6 @@ A responsive and visually engaging frontend web project built using **HTML**, **
 
 👉 [Click here to view the project live]( https://jatinbisen93.github.io/Future-Stack-Technologies/)
 
-## 📸 Screenshots
-
-<!-- Add screenshots here if available -->
-<img src="Screenshots/Screenshot_1.png" alt="Screenshot 1" width="600"/>
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – Semantic markup
